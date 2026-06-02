@@ -13,9 +13,7 @@ My background combines Food Science & Technology and Business Analytics, allowin
 
 ## 💡 Interests
 
-- Business Analytics
-- Marketing Analytics
-- Data Science
+- Business and Marketing Analytics
 - Consumer Insights
 - Food Industry Innovation
 - Sustainability
