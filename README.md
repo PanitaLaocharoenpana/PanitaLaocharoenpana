@@ -21,7 +21,9 @@ My background combines Food Science & Technology and Business Analytics, allowin
 ## 🛠 Skills
 
 **Analytics:** Python, SQL, Pandas, NumPy, Scikit-Learn
+
 **Visualization:** Tableau, Power BI, Matplotlib
+
 **Business:** Marketing Analytics, Predictive Modeling, Data Storytelling, Strategic Planning
 
 ## 🏆 Highlights
