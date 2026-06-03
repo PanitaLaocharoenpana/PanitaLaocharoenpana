@@ -20,32 +20,19 @@ My background combines Food Science & Technology and Business Analytics, allowin
 
 ## 🛠 Skills
 
-### Analytics & Programming
-- Python
-- Pandas
-- NumPy
-- Scikit-Learn
-- SQL
+**Analytics:** Python, SQL, Pandas, NumPy, Scikit-Learn
 
-### Data Visualization
-- Tableau
-- Power BI
-- Matplotlib
+**Visualization:** Tableau, Power BI, Matplotlib
 
-### Business
-- Marketing Analytics
-- Predictive Modeling
-- Data Storytelling
-- Strategic Planning
-
+**Business:** Marketing Analytics, Predictive Modeling, Data Storytelling, Strategic Planning
 
 ## 🏆 Highlights
 
+- MBA Candidate, Bryant University
 - 3rd Runner-Up, J-MAT Brand Planning Competition #2
-- MBA Candidate at Bryant University
 - Passionate about sustainable innovation in the food industry
 
-## 📫 Connect With Me
+## 📫 Connect
 
-- LinkedIn: www.linkedin.com/in/panital
-- Email: panitall58@gmail.com
+- LinkedIn: linkedin.com/in/panital
+- Email: panitali58@gmail.com
