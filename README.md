@@ -31,8 +31,3 @@ My background combines Food Science & Technology and Business Analytics, allowin
 - MBA Candidate, Bryant University
 - 3rd Runner-Up, J-MAT Brand Planning Competition #2
 - Passionate about sustainable innovation in the food industry
-
-## 📫 Connect
-
-- LinkedIn: linkedin.com/in/panital
-- Email: panitali58@gmail.com
